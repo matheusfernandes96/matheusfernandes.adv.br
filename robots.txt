@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matheusfernandes.adv.br/sitemap.xml
